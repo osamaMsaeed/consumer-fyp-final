@@ -1,0 +1,20 @@
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", "Calibri", Arial, sans-serif;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#root {
+  background: #263238;
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+  height: 100%;
+}
